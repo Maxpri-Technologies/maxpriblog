@@ -403,6 +403,16 @@ article.card p {
   font-size: 0.975rem;
 }
 
+/* Updates */
+#updates {
+  margin-bottom: 3rem;
+}
+
+#updates .posts {
+  grid-template-columns: repeat(1, minmax(0, 1fr));
+  max-width: 460px;
+}
+
 /* Read more on cards */
 .card .read-more {
   display: inline-block;
