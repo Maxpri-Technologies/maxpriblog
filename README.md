@@ -1,4 +1,4 @@
-# MaxPriblog
+# Maxpriblog
 
 A personal blog featuring articles on various topics.
 
